@@ -10,4 +10,4 @@ d. git commit -m"lates build"= Commit the staged files to the local repository. 
 e. git push --all= Push all the changes in the local repository to the remote repository  
 6. This is not a question
 7. For optional extra points  
-a. [My Github account](./https://github.com/Tibaalgburi/IDS2024F/edit/main/homework/HW1/README.md)
+a. [My Github account](.https://github.com/Tibaalgburi/IDS2024F/edit/main/homework/HW1/README.md)
