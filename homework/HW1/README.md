@@ -10,4 +10,6 @@ d. git commit -m"lates build"= Commit the staged files to the local repository. 
 e. git push --all= Push all the changes in the local repository to the remote repository  
 6. This is not a question
 7. For optional extra points  
-a. [My Github account](./https://github.com/Tibaalgburi/IDS2024F/tree/main?tab=readme-ov-file#ids2024f---introduction-to-data-science-fall-2024)
+a. [My Github account](./)
+b. The meaning of "https" is Hypertext Transfer Protocol Secure. It uses encryption for a secure communication over a computer network, and is widely used on the internet.
+c. The meaning of relative vs. absolute path
