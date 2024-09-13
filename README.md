@@ -10,7 +10,7 @@ This project contains all my activities
 **Position Title:** Student
 **Course Webpage:** https://www.cdslab.org/IDS2024F/
 **Photo:**
-
+![](./)
 
 ## Description of the project's content
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
