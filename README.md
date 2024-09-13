@@ -1,16 +1,16 @@
 # IDS2024F - Introduction to Data Science (Fall 2024) 
 This project contains all my activities
 ---
-**Name:** Tiba Algburi 
-**School ID:** 1002134384
-**Email:** tma4384@mavs.uta.edu
-**Department:** Department of Data Science
-**University:** [The University of Texas at Arlington](https://www.uta.edu/)
-**Level:** Undergraduate - Sophomore (2nd year)
-**Position Title:** Student
-**Course Webpage:** https://www.cdslab.org/IDS2024F/
-**Photo:**
-![](./)
+**Name:** Tiba Algburi  
+**School ID:** 1002134384  
+**Email:** tma4384@mavs.uta.edu  
+**Department:** Department of Data Science  
+**University:** [The University of Texas at Arlington](https://www.uta.edu/)  
+**Level:** Undergraduate - Sophomore (2nd year)  
+**Position Title:** Student  
+**Course Webpage:** https://www.cdslab.org/IDS2024F/  
+**Photo:**  
+![My picture](./portrait.png)
 
 ## Description of the project's content
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
