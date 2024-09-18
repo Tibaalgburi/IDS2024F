@@ -15,7 +15,7 @@ This project contains all my activities
 ## Description of the project's content
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
 
-+  [homework](./HW1.folder): (the homework hyperlink should take the reader to the homework folder)
++  [homework](./homework): (the homework hyperlink should take the reader to the homework folder)
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
 +  [quiz](./quiz.folder): (the quiz hyperlink should take the reader to the quizzes folder)
