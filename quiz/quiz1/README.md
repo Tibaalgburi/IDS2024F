@@ -21,8 +21,8 @@
 15. git push --all= Push all the changes in the local repository to the remote repository
 16. git pull= Pull the latest project revision from the remote to the local repository.
 17. !!!
-18. Double astrics (**)
-19. _hello_
+18. **bold** Double astrics 
+19. To make a text italic you use underscores like so: _hello_
 20. !!!!
 21. !!!
 22. While following the steps
@@ -34,5 +34,17 @@
     6. The folder "testdir" is already a git repository. That is because when I use the command "ls -a" it shows me the output of "./ ../" proving that it is there
     7.  My answer was yes
     8.  I believe that vim is a text editor....
-    9.  
-
+    9.  !!!!
+    10. !!!!
+    11. !!!
+    12. !!!
+    13. -rf=  force remove directory dir
+23. Biomedical, Neurosciene, cognitive science, neurobiology
+24. computer, optimization, simulations, bayesian
+25. a workflow, a susbtitue for experiment, a substitute for theory
+26. ....
+27. ....
+28. A data scientist is someone who analyzes data and creates graohs out of them. They also code using several coding languages
+29. he meaning of relative vs. absolute path is An absolute path is a complete path from the root of the file system to the desired directory or file. It does not depend on the current working directory. Relative paths often use special notations like "." for the current directory and ".." for the parent directory.
+30. git help
+31. cd means change to home 
