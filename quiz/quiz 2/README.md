@@ -29,7 +29,9 @@
 29. S=1683. I had this problem before and I remembered the answer.
 30. Magnetic tapes because they last around twenty years.  
 31. ENIAC and Manchester Mark 1.  
-32. 
+
+
+ 
 
 
 
