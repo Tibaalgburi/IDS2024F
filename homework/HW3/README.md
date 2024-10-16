@@ -12,7 +12,7 @@
 10. ???
 11. ???
 12. logical implication and physical causation are NOT the same. For example: the rain at 10 am is not the physical cause of the clouds at 9:45 am. Nevertheless, the proper logical connection is not in the uncertain causal direction (clouds ⇒ rain), but rather (rain ⇒ clouds), which is certain, although noncausal.  
-13. If a person is crawling out of a jewelry store with a broken window and carrying expensive jewelry, then that gentleman is dishnest. Since B and A are true, C is true.
+13. If a person is crawling out of a jewelry store with a broken window and carrying expensive jewelry, then that gentleman is dishnest. Since B and A are true, C is true.  
 14(a). The tiniest unit of information in computer and information science is a bit.
    b. 0 and 1 are easy to represent electronically.  
 1. 2 different representations.  
