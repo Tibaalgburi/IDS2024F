@@ -22,6 +22,7 @@
 
 
 FOR QUESTIONS 9, 10, and 14
+- 10 is fully shaded
 ![image](https://github.com/user-attachments/assets/56540e3d-aa6f-425a-8386-16d4126d2941)
 
  
