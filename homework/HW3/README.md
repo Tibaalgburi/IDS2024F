@@ -7,7 +7,7 @@
 5. The three stages of scientific inference in the prediction pyramid from bottom to top goes: Calibration Scenario:Scal/ Calibration Data:Dcal, Validation Scenario:Sval/Validation Data:Dval, Prediction Scenario: Sp/ Quantity of Interest.
 6. A logical proposition is a statement that can be either true or false; it must be one or the other, and it cannot be both.
 7. No a logical proposition can not be both true or false because it can only be either true or false. So, it can be either a fact or something incorrect like "2+2 is 4" which is correct or "2+5 is 10" which is incorrect.
-8. No, A⇒B does not necessitate B⇒A. For example: A= is it raining; B=the ground is wet. The rain can be the reason the ground is wet but it is not the ONLY resson.
+8. No, A⇒B does not necessitate B⇒A. For example: A= is it raining; B=the ground is wet. The rain can be the reason the ground is wet but it is not the ONLY resson.  
 9-11:
     ![image](https://github.com/user-attachments/assets/05304a1f-ccf3-47cf-9c8d-f3ad65f0b74b)
 
