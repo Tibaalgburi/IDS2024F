@@ -13,6 +13,10 @@
 13. ???
 14. Logical implication venn diagram.
 15. The tiniest unit of information is a bit
-16. ????
+16. If the universe was empty it ___ contain any information???
 17. ???
 18. ???
+
+
+FOR QUESTIONS 9, 10, and 14
+![image](https://github.com/user-attachments/assets/56540e3d-aa6f-425a-8386-16d4126d2941)
