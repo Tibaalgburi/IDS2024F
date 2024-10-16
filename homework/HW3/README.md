@@ -1,5 +1,5 @@
 1. The three pillars of science are: Experiment, Theory, Computation+Data.  
-2. ???
+2. Three different applications of Computational and Data Sciences: computational science, biomedical, and neuroscience. Computational science is a branch of study that uses advanced computing capabilities to understand and solve complex physical problems. Biomedical is the studies human biology, health, and diseases. Neuroscience is the scientific study of the nervous system.  
 3. The two types of scientific reasoning are Deductive and Plausible reasoning.
    a. Example of plausible reasoning: A ≡ it will start to rain by 10 am at the latest; B ≡ the sky will become cloudy before 10 am.
    b. Example of deductive reasoning: A= all plants need water to grow; B= rain provides water for plants. Therefore, rain helps plants grow.
