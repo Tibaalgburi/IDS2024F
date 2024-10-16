@@ -12,16 +12,16 @@
 9. logical conjunction venn diagram.    
 10. logical disjunction venn diagram.  
 11. It means thatthat the proposition on the left-hand side has the same truth value as the one on the right-hand side.   
-12. The result of adding two propositions that complement each other...???
-13. The result of multiplying two propositions that compliment each other...???
+12. The result of adding two propositions that complement each other is called the logical sum or disconjuction. "It is raining or it is not raining".   
+13. The result of multiplying two propositions that compliment each other is a logical product or conjuction. "it is raining and it is not raining".  
 14. Logical implication venn diagram.
 15. The tiniest unit of information is a bit
 16. If the universe was empty it would not contain any information.
 17. In a 4 bit storage there are 16 integers.  
-18. There would be___???
+18. There would be 81 possibilities.
 
 
 FOR QUESTIONS 9, 10, and 14
 ![image](https://github.com/user-attachments/assets/56540e3d-aa6f-425a-8386-16d4126d2941)
 
-6, 12, 13, 18
+ 
