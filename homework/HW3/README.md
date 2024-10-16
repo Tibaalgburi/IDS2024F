@@ -11,12 +11,13 @@
 9-11:
     ![image](https://github.com/user-attachments/assets/05304a1f-ccf3-47cf-9c8d-f3ad65f0b74b)
 
-12. logical implication and physical causation are NOT the same. For example: the rain at 10 am is not the physical cause of the clouds at 9:45 am. Nevertheless, the proper logical connection is not in the uncertain causal direction (clouds ⇒ rain), but rather (rain ⇒ clouds), which is certain, although noncausal.  
-13. If a person is crawling out of a jewelry store with a broken window and carrying expensive jewelry, then that gentleman is dishnest. Since B and A are true, C is true.  
-14(a). The tiniest unit of information in computer and information science is a bit.
-   b. 0 and 1 are easy to represent electronically.  
-1. 2 different representations.  
-2. 4 different representations.  
-3. 8 different representations.  
-   
+12. (number 12) logical implication and physical causation are NOT the same. For example: the rain at 10 am is not the physical cause of the clouds at 9:45 am. Nevertheless, the proper logical connection is not in the uncertain causal direction (clouds ⇒ rain), but rather (rain ⇒ clouds), which is certain, although noncausal.  
+13. (number 13)If a person is crawling out of a jewelry store with a broken window and carrying expensive jewelry, then that gentleman is dishnest. Since B and A are true, C is true.  
+14(a). (14 a)The tiniest unit of information in computer and information science is a bit.
+   b. (14b)0 and 1 are easy to represent electronically.  
+1. (14,1)2 different representations.  
+2. (14,2)4 different representations.  
+3. (14,3)8 different representations.  
+
+   Note: the numbers got messed up so I did my best to label them
 
