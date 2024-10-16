@@ -6,7 +6,7 @@
 3. a substitute for theory, where it is not available (data-driven discovery via machine learning, deep learning, …).
 4. The two types of reasoning are Deductive and Plausible reasoning. a. Example of plausible reasoning: A ≡ it will start to rain by 10 am at the latest; B ≡ the sky will become cloudy before 10 am. b. Example of deductive reasoning: A= all plants need water to grow; B= rain provides water for plants. Therefore, rain helps plants grow.
 5. The difference between observational data and reality is that reality is a natural phenomena while observational data is information that is collected through observation of the natural phenomena. Reality encompasses everything that exists, observed or not.
-6. The difference between model validation and calibration is that validation is higher in the prediction pyramid than calibration. ???
+6. The difference between model validation and calibration is that validation is higher in the prediction pyramid than calibration. Validation checks if the model performs well and the calibration ensures that predicted possiblities have real-world frquencies.
 7. logical implication and physical causation are NOT the same. For example: the rain at 10 am is not the physical cause of the clouds at 9:45 am. Nevertheless, the proper logical connection is not in the uncertain causal direction (clouds ⇒ rain), but rather (rain ⇒ clouds), which is certain, although noncausal.   
 8. Boolean algebra was named after George Boole.  
 9. logical conjunction venn diagram.    
