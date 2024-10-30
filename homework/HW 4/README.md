@@ -10,6 +10,7 @@
 <img src="https://github.com/user-attachments/assets/18d5adf4-5e64-4418-bcae-f4665c597cdf" width="300" height="350">
 
 <img src="https://github.com/user-attachments/assets/600a5681-0a02-43e5-ba8f-56d8718b0880" width="300" height="350">
+
 13. (a) Degrees of plausibility are represented by real numbers.  
-    (b) Qualitive correspondence with common sense.  
-    (c) Consistency.  
+    (b) Qualitive correspondence with common sense.    
+    (c) Consistency.    
