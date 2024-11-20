@@ -14,7 +14,8 @@
 14. Variables holding qualitative data are factors, and the different categories are called levels.    
 15. Continuous and Discrete. ???  
 16. They are called factors.  
-17. 1) colors to distinguish categories, 2) colors to represent data values (sequential), 3)colors to represent data values(diverging), 4) color as a tool to highlight.  
-18. 
-
+17. Ordered- Day. Unordered- Location.  
+18. 1) colors to distinguish categories, 2) colors to represent data values (sequential), 3)colors to represent data values(diverging), 4) color as a tool to highlight.
+19. Rotating a pie into the third dimension makes pie slices in the front appear larger than they really are and pie slices in the back appear smaller. Also, because the 3D perspective makes the plot difficult to read when it is showing morality rates.  
+20.
 
