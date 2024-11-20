@@ -5,7 +5,7 @@
 5. The two major types of data are: Continuous and Discrete. When data is numerical we also call it quantitative and when it is categorical we call it qualitative. Quantative- numerical. Can be measured or counted. Ex: height. Qaulitative: Categories or qualities. Ex: Dogs or cats (type of pets).  
 6. The common name for variables holding qualitative data is factors. The different categories are called levels.  
 7. Ordered data: Quantitative, Numerical(age). Qualitative, Categorical(performance rating). Unordered data: Qualitative, Categorical(fruit types).  
-8. <img src="https://github.com/user-attachments/assets/a49b5007-948d-4135-ae99-283b95381afb" width="300" height="350">
+8. <img src="https://github.com/user-attachments/assets/a49b5007-948d-4135-ae99-283b95381afb" width="300" height="400">
 9. ???
 10. ???
 11. ???
