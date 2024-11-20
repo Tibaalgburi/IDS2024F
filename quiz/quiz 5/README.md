@@ -21,8 +21,8 @@
 21. Color is listed in orders and unordered in slide 5. Color is qualitative.  
 22. ????
 23. The purple-green colors because people with color blindness will have a hard time with the red-green.  
-24. 1)??. 2)??. 3)??. 4)??.
-25. 1)qualitative color scale/intrinsic order. 2) Color to represent data values. 3) diverging
+24. 1)??. 2)??. 3)??. 4)??.  
+25... 1)qualitative color scale/intrinsic order. 2) Color to represent data values. 3) diverging
 color scale. 4) Color as a tool to highlight.  
 26. Polar coordinates can be useful for data of a periodic nature, such that data values at one end of the scale can be logically joined to data values at the other end. 
 
