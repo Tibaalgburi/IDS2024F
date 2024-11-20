@@ -25,5 +25,7 @@
 25... 1)qualitative color scale/intrinsic order. 2) Color to represent data values. 3) diverging
 color scale. 4) Color as a tool to highlight.  
 26. Polar coordinates can be useful for data of a periodic nature, such that data values at one end of the scale can be logically joined to data values at the other end. 
+27. Color as a tool to highlight.  
+28. a)??. b)??.
 
 
