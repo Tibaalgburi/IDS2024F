@@ -1,4 +1,4 @@
-1. ![image](https://github.com/user-attachments/assets/9097d5bf-d828-48f3-ac6d-88fe01b7176f)
+1. <img src="https://github.com/user-attachments/assets/9097d5bf-d828-48f3-ac6d-88fe01b7176f" width="300" height="300">
 2. The three fundamental desiderata of Probability Theory are: 1) Degrees of plausibility are represented by real numbers, 2) Qualitative correspondence with common sense, 3) Consistency.
 3. Visualizing data: Mapping data onto aesthetics. All data visualizations map data values into quantifiablefeatures of the resulting graphic. We refer to these features as aesthetics. The aesthetics that can appear in a data visualization are: position, shape, size, color, line width, line type.  
 4. All aesthetics fall into one of two groups: Those that can represent continuous data and those that cannot.  
