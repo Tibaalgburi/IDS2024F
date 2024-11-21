@@ -12,7 +12,7 @@
 12. 1) colors to distinguish categories, 2) colors to represent data values (sequential), 3)colors to represent data values(diverging), 4) color as a tool to highlight.  
 13. The height of the curve is scaled such that the area under the curve equals one. The correct graph starts at 0.
 14. The first set of colors is hard to see by those who struggle with color blindness. The second set of colors (purple-green) is a viable alternative.  
-15. ![image](https://github.com/user-attachments/assets/d0bb978f-14c0-48d5-a48f-e46e647f41c5)
+15. <img src="https://github.com/user-attachments/assets/d0bb978f-14c0-48d5-a48f-e46e647f41c5" width="300" height="300">
 16. The four major schools of Probability Theory are: 1) Classical Probability, 2) Bayesian Probability, 3) Grequentist Probability, 4) Propensity.  
 17. Puzzle: How many and what living creatures do you see? I see a frog and a horse.
 18. Puzzle: Matchstick Wrong Equation. If you move the bottom left matchstick from the "8" it becomes a 9 then take that matchstick and add it to the "0" to turn it into an "8" (9+3-4=8).  
