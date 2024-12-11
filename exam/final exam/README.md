@@ -1,11 +1,11 @@
 1. Observational data is what we perceive of the nature. Reality is what we will never know because it is always obfuscated with our biases and measurement uncertainties.  
 2. Visualizing data: Mapping data onto aesthetics. All data visualizations map data values into quantifiable features of the resulting graphic. We refer to these features as aesthetics. The aesthetics that can appear in a data visualization are: position, shape, size, color, line width, line type.
 3. The purple-green colors because people with color blindness will have a hard time with the red-green.
-4. 1) qualitative color scale/intrinsic order. 2) Color to represent data values. 3) diverging color scale. 4) Color as a tool to highlight.
+4. .1) qualitative color scale/intrinsic order. 2) Color to represent data values. 3) diverging color scale. 4) Color as a tool to highlight.
 5. ????
 6. Experiment, Theory, Computation.
 7.  No. “The sky is rainy” implies that “the sky is cloudy”. However, rainy sky did not physically cause the cloudy sky.
-8.  1) yes. 2) ???. 3)???. 4)???
+8.  .1) yes. 2) ???. 3)???. 4)???
 9. Yes
 10. ???
 11. ???
